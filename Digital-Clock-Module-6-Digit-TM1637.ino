@@ -1,5 +1,6 @@
 //Coding ini dibuat oleh Dani_Rajacell untuk produk Digital Clock Module 6-Digit TM1637
 //https://tokopedia.com/rajacell/module-7-segment-jam-digital-clock-module-6-digit-tm1637-dengan-push-button
+//https://tokopedia.com/rajacell/ds3231-i2c-rtc-module-for-arduino-real-time-clock-iic-module
 //https://www.facebook.com/dani.ardianto.rajacell
 
 #include <Arduino.h>
